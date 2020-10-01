@@ -31,7 +31,7 @@ cd oh-my-i3
 sh install.sh
 ```
 
-若已运行i3需要 `Alt+Shift+R` 重载入配置
+若已运行i3需要 `$MOD+Shift+R` 重载入配置
 
 ## 快捷键
 
